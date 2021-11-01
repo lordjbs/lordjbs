@@ -5,6 +5,7 @@ I'm jbs, a software dev from Germany.
 * Kotlin
 * Python
 * Node\.js/JavaScript/TypeScript
+* Go
 * HTML/CSS
 * Rust
 * PostgreSQL
